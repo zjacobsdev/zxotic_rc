@@ -1,0 +1,10 @@
+Sound events:
+
+- playing music
+-egine sounds based howe much it revs
+
+what other sytems effected:
+-Fuel 
+-engine
+-radio
+

@@ -1,0 +1,31 @@
+    Types of lights
+    - Normal(Pure White) (front)
+    - Turn signal(Orange)(front)
+    - Brake (Red)
+    -reverse light
+
+types of light events in vehicle
+    - brake lights
+       - when the the brake btn is press, the car will turn on the back brake lights to signal its slowingdown/stopping
+
+        -when in Night mode, the brake lights will brighen up more to indicated it slowing down or stopping
+
+    - Turn signal 
+         when the right or left signal btn is pressed, the car will signal a turn from both the front and back of vehicle in the direction indicated, with either a second btn or wheel turn raduis angle will determine when the turn signal will stop
+    - Head lights
+        - Night(Night mode)
+            Turns on when either sensor  senses its night time or when night btn is press it will turn on the front headlights, back brake lights, licence plate lights, and car dashboard.
+        - Highbeam
+            turns on when the user indicates, just a more brighter front head lights
+
+    -Hazard lights
+    when the user press Hazard lights btn, the yellow lights in the front and back will turn on and stay on until user press the btn again
+
+    -Reverse light
+     when user changes gear to Reverse, the back Reverse light come on
+
+
+other systems effected
+- Fuel
+
+    

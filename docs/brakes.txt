@@ -1,0 +1,12 @@
+ braking sysytem
+
+ types of breaking events
+    -sudden
+    -gradual 
+    - slow
+
+what other systems effected
+    - lights
+    - wheels
+    - engine
+    - Fuel
